@@ -1,8 +1,8 @@
-# 👋 Szia, én vagyok [Neved]
+# 👋 Hi, I'm Delta
 
 <div align="center">
 
-### 💻 Szenvedélyem a programozás és az új technológiák felfedezése
+### 💻 Passionate about coding and exploring new technologies
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Code+Enthusiast;Open+Source+Lover;Always+Learning+New+Things" alt="Typing SVG" />
 
@@ -10,13 +10,13 @@
 
 ---
 
-## 🚀 Rólam
+## 🚀 About Me
 
-- 🔭 Folyamatosan dolgozom új projekteken
-- 🌱 Jelenleg új technológiákat tanulok
-- 💡 Szeretek tiszta, jól strukturált kódot írni
-- 🎯 Célom, hogy minden nap fejlődjek programozóként
-- ☕ A kávé és a kód kombinációja működtet
+- 🔭 Constantly working on new projects
+- 🌱 Currently learning new technologies
+- 💡 I enjoy writing clean and well-structured code
+- 🎯 My goal is to improve as a developer every day
+- ☕ Coffee and code keep me going
 
 ---
 
@@ -41,7 +41,7 @@
 
 ---
 
-## 📊 GitHub Statisztikák
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -53,19 +53,19 @@
 
 ---
 
-## 🏆 GitHub Trófeák
+## 🏆 GitHub Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
 
 ---
 
-## 📈 Aktivitási Grafikon
+## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true"/>
 
 ---
 
-## 🌐 Kapcsolat
+## 🌐 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/USERNAME)
 
