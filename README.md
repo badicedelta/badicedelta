@@ -77,6 +77,6 @@ I am one of the owners of **SourceCode Team**, a development-focused community w
 
 ### ⭐ Code • Create • Innovate
 
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=badicedelta&color=blueviolet&style=for-the-badge)
 
 </div>
