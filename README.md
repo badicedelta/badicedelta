@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### 💻 Passionate about coding and exploring new technologies
+### 💻 Developer • Problem Solver • Technology Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Code+Enthusiast;Open+Source+Lover;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Developer;Open+Source+Enthusiast;Building+Cool+Projects;SourceCode+Team+Owner" alt="Typing SVG" />
 
 </div>
 
@@ -12,32 +12,34 @@
 
 ## 🚀 About Me
 
-- 🔭 Constantly working on new projects
-- 🌱 Currently learning new technologies
-- 💡 I enjoy writing clean and well-structured code
-- 🎯 My goal is to improve as a developer every day
-- ☕ Coffee and code keep me going
+- 💻 Passionate about software development
+- ⚡ Interested in modern technologies and creative solutions
+- 🛠️ Building projects and contributing to the developer community
+- 👑 Owner of the **SourceCode Team**
 
 ---
 
-## 🛠️ Tech Stack
+## 🏢 SourceCode Team
 
-### Frontend
+I am one of the owners of **SourceCode Team**, a development-focused community where we create projects, share knowledge, and collaborate on innovative ideas.
+
+### 🔗 Community
+
+> Discord Server: **[YOUR DISCORD INVITE LINK HERE]**
+
+---
+
+## 🛠️ Technologies
+
+<div align="center">
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Database
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+</div>
 
 ---
 
@@ -53,31 +55,27 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-
----
-
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true"/>
 
 ---
 
-## 🌐 Contact
+## 🌐 Connect With Me
+
+<div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/USERNAME)
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](YOUR_DISCORD_INVITE_LINK)
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ "Code. Learn. Build. Repeat."
+### ⭐ Code • Create • Innovate
 
 ![Profile Views](https://komarev.com/ghpvc/?username=USERNAME&color=blueviolet&style=for-the-badge)
 
